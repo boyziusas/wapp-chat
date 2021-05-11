@@ -6,6 +6,7 @@ Please check the official laravel installation guide for server requirements bef
 
 //
 PHP ≥ 7.3.0
+Laravel = 5.3
 
 
 Clone the project repository by running the command below if you use SSH
